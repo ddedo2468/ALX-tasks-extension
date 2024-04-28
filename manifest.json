@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "Alx Tasks Scraper",
+    "version": "1.0",
+    "author": "Abdullah Mosbah & Aya Tarek",
+    "description": "simple tool to make your life easier with alx program",
+    "permissions": [
+        "activeTab",
+        "clipboardWrite"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://intranet.alxswe.com/projects/*/"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
