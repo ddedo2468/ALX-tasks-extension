@@ -35,5 +35,6 @@ Click the extension's icon in your Chrome toolbar (the icon you specified in man
 The extension will automatically process the page, extract file names, and generate the command.
 Paste the command from your clipboard into your terminal and press Enter to create all directory and file structures in one step.
 
-Authors
-Abdullah Mosbah - Github / Twitter - abdallahmosbah25@gmail.com Aya Tarek - Github / Twitter aya.tarek213@icloud.com
+## Authors
+Abdullah Mosbah: [Github](https://github.com/ddedo2468) - [Twitter](https://twitter.com/abdullahxorca) - [email](abdallahmosbah25@gmail.com)
+Aya Tarek: [Github](https://github.com/AyaTarek95) - [Twitter](https://twitter.com/ayatarek0000) - [email](aya.tarek213@icloud.com)
