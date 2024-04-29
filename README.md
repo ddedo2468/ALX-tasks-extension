@@ -36,5 +36,5 @@ and probably you should start learning Neovim too.
 
 - Aya Tarek: [Github](https://github.com/AyaTarek95) - [Twitter](https://twitter.com/ayatarek0000) - [email](aya.tarek213@icloud.com)
 
-- Hussam: [Github](https://github.com/husamahmud) - [Twitter](https://twitter.com/husamahmud)
+- Hussam: [Github](https://github.com/husamahmud) - [Twitter](https://twitter.com/husamahmud) - [email](devhusam@outlook.com)
 
