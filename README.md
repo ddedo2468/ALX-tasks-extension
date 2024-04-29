@@ -16,8 +16,7 @@ https://github.com/ddedo2468/ALX-tasks-extension/assets/58207352/e803ebeb-f67b-4
 
 
 ## Notes:
-- ignore the cuurent error about the manifist2.
-
+- nothing for now
 
 
 ## Don't Use it if:
@@ -30,9 +29,12 @@ and probably you should start learning Neovim too.
 ## ToDo
 - [x] Create the extension
 - [x] Create installation video
-- [ ] UPGRADE TO CHRMOE manifist 3 .. soon 
-
+- [x] UPGRADE TO CHRMOE manifist 3
+- [ ] ADD README maker ... SOON
 ## Authors
 - Abdullah Mosbah: [Github](https://github.com/ddedo2468) - [Twitter](https://twitter.com/abdullahxorca) - [email](abdallahmosbah25@gmail.com)
 
 - Aya Tarek: [Github](https://github.com/AyaTarek95) - [Twitter](https://twitter.com/ayatarek0000) - [email](aya.tarek213@icloud.com)
+
+- Hussam: [Github](https://github.com/husamahmud) - [Twitter](https://twitter.com/husamahmud)
+
